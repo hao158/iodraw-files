@@ -102,8 +102,14 @@
         <mxCell id="kHKA_XJ01OiqWWesarx0-20" value="&lt;span style=&quot;font-size: 24px; text-wrap: wrap;&quot;&gt;image_received置False&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="580" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kHKA_XJ01OiqWWesarx0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kHKA_XJ01OiqWWesarx0-21" target="kHKA_XJ01OiqWWesarx0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kHKA_XJ01OiqWWesarx0-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;过滤深度，得到大于0&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;小&lt;/font&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;于0.99深度矩阵&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1192.5" width="390" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kHKA_XJ01OiqWWesarx0-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="1463.75" width="225" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
