@@ -90,7 +90,7 @@
         <mxCell id="kHKA_XJ01OiqWWesarx0-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;梯度均值大于1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="750" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kHKA_XJ01OiqWWesarx0-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kHKA_XJ01OiqWWesarx0-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;U-net图像分割&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="995" width="270" height="105" as="geometry" />
         </mxCell>
         <mxCell id="kHKA_XJ01OiqWWesarx0-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
