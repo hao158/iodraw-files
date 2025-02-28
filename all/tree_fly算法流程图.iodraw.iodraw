@@ -211,8 +211,8 @@
         <mxCell id="emlelV4f-kVwJdVSSou6-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;image_received置False&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1425" y="1190" width="185" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Q24g6GxZYyTWAo0HdLNZ-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2180" y="210" width="330" height="110" as="geometry" />
+        <mxCell id="Q24g6GxZYyTWAo0HdLNZ-2" value="接收话题点数达到三个" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2180" y="180" width="330" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
