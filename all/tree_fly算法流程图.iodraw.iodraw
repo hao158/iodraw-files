@@ -103,7 +103,12 @@
           <mxGeometry x="850" y="2117.25" width="330" height="146.25" as="geometry" />
         </mxCell>
         <mxCell id="Q24g6GxZYyTWAo0HdLNZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emlelV4f-kVwJdVSSou6-4" target="Q24g6GxZYyTWAo0HdLNZ-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2030" y="2190" />
+              <mxPoint x="2030" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="emlelV4f-kVwJdVSSou6-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;/iris_0/vision_point目标位置发布&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1430" y="2150.37" width="455" height="80" as="geometry" />
@@ -206,7 +211,7 @@
           <mxGeometry x="1425" y="1190" width="185" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Q24g6GxZYyTWAo0HdLNZ-0" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2540" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
