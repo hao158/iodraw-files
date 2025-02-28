@@ -125,8 +125,8 @@
         <mxCell id="kHKA_XJ01OiqWWesarx0-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;求取与树干的深度距离&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="1463.75" width="330" height="146.25" as="geometry" />
         </mxCell>
-        <mxCell id="kHKA_XJ01OiqWWesarx0-25" value="&lt;span style=&quot;font-size: 24px; text-wrap: wrap;&quot;&gt;矩阵size&amp;gt;0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1020" y="1370" width="140" height="40" as="geometry" />
+        <mxCell id="kHKA_XJ01OiqWWesarx0-25" value="&lt;span style=&quot;font-size: 24px; text-wrap: wrap;&quot;&gt;矩阵的平均深度小于9&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="965" y="1370" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="auZlr7FJ4WMkxRg6gFDm-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图像融合&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="890" width="210" height="90" as="geometry" />
