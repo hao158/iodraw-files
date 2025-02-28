@@ -259,7 +259,7 @@
         <mxCell id="Q24g6GxZYyTWAo0HdLNZ-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2580" y="210" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q24g6GxZYyTWAo0HdLNZ-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;发布位置列表&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q24g6GxZYyTWAo0HdLNZ-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;发布publist[0]&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2200" y="1580" width="290" height="140" as="geometry" />
         </mxCell>
       </root>
