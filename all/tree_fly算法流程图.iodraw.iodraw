@@ -156,8 +156,11 @@
         <mxCell id="emlelV4f-kVwJdVSSou6-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;image_captured为False&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="690" width="450" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="emlelV4f-kVwJdVSSou6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emlelV4f-kVwJdVSSou6-13" target="kHKA_XJ01OiqWWesarx0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="emlelV4f-kVwJdVSSou6-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;image_receive置False,image_captured置True&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="690" width="220" height="100" as="geometry" />
+          <mxGeometry x="550" y="690" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
